@@ -3,11 +3,12 @@ https://www.kaggle.com/code/devraai/perfume-longevity-analysis-and-prediction/in
 
 Description:
 
-Name → The name of the perfume.
-Brand → The brand/company that produced the perfume.
-Type → The concentration/type of fragrance (e.g., Eau de Parfum, Eau de Toilette, Cologne).
-Category → Classification of fragrance (e.g., Floral, Oriental, Woody, Fresh).
-Target_Audience → The intended user group (e.g., Men, Women, Unisex).
-Longevity → Expected lasting power of the fragrance (e.g., Short, Moderate, Long).
+Name → Numele parfumului.
+Brand → Marca / compania care a produs parfumul.
+Type → Concentrația / tipul parfumului (ex.: Apă de parfum, Apă de toaletă, Colonie).
+Category → Clasificarea parfumului (ex.: Floral, Oriental, Lemnos, Fresh / Proaspăt).
+Target_Audience → Grupul țintă al utilizatorilor (ex.: Bărbați, Femei, Unisex).
+Longevity → Durata de persistență a parfumului (ex.: Scurtă, Medie, Lungă).
 
+Prelucrare:
 Au fost pastrate doar primele 250 de intrari.
