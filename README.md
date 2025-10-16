@@ -11,4 +11,5 @@ Target_Audience → Grupul țintă al utilizatorilor (ex.: Bărbați, Femei, Uni
 Longevity → Durata de persistență a parfumului (ex.: Scurtă, Medie, Lungă).
 
 Prelucrare:
+Au fost scoase spatiile in plus si inlocuite anumite valori gresite din coloana target_audience.
 Au fost pastrate doar primele 250 de intrari.
