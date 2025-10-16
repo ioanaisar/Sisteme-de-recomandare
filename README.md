@@ -1,7 +1,7 @@
 Dataset:
 https://www.kaggle.com/code/devraai/perfume-longevity-analysis-and-prediction/input
 
-Description:
+Descriere:
 
 Name → Numele parfumului.
 Brand → Marca / compania care a produs parfumul.
