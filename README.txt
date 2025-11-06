@@ -1,0 +1,8 @@
+Cele mai asemănătoare două produse din brand-uri diferite identificate:
+Produs 1: Philosykos - Eau de Parfum
+Descriere 1: one of the best fig scents ever made and one of our favorite scents of all time, now even stronger and more compelling. this ode to the fig groves of greece is still a very green fig a fig just on the verge of being ripe. the opening is sharp with the tart freshness of the leaves, and then the fig itself comes into play sweet enough to tantalize, but not overwhelm. the glossy green leaves and succulent fruit intertwine with a dry wood note and a hint of rich earth. you get the sense not only of the whole tree, but the whole grove the wood, the earth, the sky, the mediterranean sun coaxing the sweetness of the fruit along as it ripens. many a superlative has been used to describe this fragrance over the years and it deserves every one. outstanding.
+Notes 1: fig tree leaves, wood, white cedar
+Produs 2: Premier Figuier Eau de Toilette
+Descriere 2: why premier? because it is the very first perfume based on the fig theme! green like its sweet-smelling leaves, milky like the sap of the tree, fruity like the soft flesh of the fig; woody like its branches and trunk...it is unique as it conjures up an image of the entire tree. glossy green leaves and succulent ripe figs meld together in this innovative, award-winning scent. milky, warm and earthy, this is one of the best fig fragrances around. it captures the essence of the entire fig tree, with lasting green and woody notes anchoring the mouth-watering sweetness of the fruit itself. unusual and memorable.
+Notes 2: fig, fig leaf, milk of almond, sandalwood, coconut
+Scor de similaritate: 0.4994
